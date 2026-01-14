@@ -1,2 +1,2 @@
 # Linux Git Networking Lab
-Application uses EC2
+Application uses AWS EC2
